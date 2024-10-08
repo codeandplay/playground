@@ -1,3 +1,19 @@
+# playground
+
+## Introduction
+
+This is a playground for React Three.js games using Next.js. Use it to test character controllers and other game mechanics
+
+## Technology Stack
+
+- **Node.js**: Version 20.16.0
+- **Three.js**: A powerful library for 3D graphics in the browser.
+- **Leva**: A GUI for React that helps manage and visualize state in 3D applications.
+- **React Fiber**: A reconciler for React that enables more flexible rendering.
+- **React Three Drei**: A set of tools and abstractions for working with Three.js in React.
+- **Rapier Physics Engine**: A fast and cross-platform physics engine designed for 2D and 3D physics simulations, often used with react-three/rapier for game physics.
+- **React Spinners**: A collection of loading spinner components for React, useful for indicating loading states.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
