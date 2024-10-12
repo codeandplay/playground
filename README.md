@@ -4,8 +4,9 @@
 
 This is a playground for React Three.js games using Next.js. Use it to test character controllers and other game mechanics
 
-<img src="https://github.com/codeandplay/playground/blob/main/public/screenshot.png" width="500" title="playground">
+DEMO: https://playground-two-blond.vercel.app/
 
+<img src="https://github.com/codeandplay/playground/blob/main/public/screenshot.png" width="500" title="playground">
 
 ## Technology Stack
 
